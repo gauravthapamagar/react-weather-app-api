@@ -1,0 +1,6 @@
+ReactJS: Build a weather app with cities autocomplete
+1. Goto rapidapi and search for geodb cities.
+2. search cities and goto code , select javascript and then select fetch. It will generate keys
+3. goto openweather app and get api key.
+4.create react app
+5. you need to install two packages: first one is the accordion and second one is the 
